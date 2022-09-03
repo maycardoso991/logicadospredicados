@@ -1,0 +1,2 @@
+# logicadospredicados
+aula amadok
